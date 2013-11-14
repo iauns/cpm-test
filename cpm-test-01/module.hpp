@@ -5,7 +5,7 @@
 
 namespace CPM_TEST_01_NS {
 
-std::string test01Function(std::string str, int num);
+std::string test01Function(std::string str, int num, int num2);
 
 } // namespace CPM_TEST_01_NS 
 
